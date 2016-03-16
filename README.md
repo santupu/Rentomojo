@@ -4,11 +4,11 @@ This is the app for counting the comment upvotes and downvotes Using MEAN Full s
 Users can Sign up by email id and Post the Comments.
 Users can see the upvotes and downvotes of own comments after sign in by user name and password.
 They can also edit the profiles.
-##Start the app.
-#1.Start the server by node server.js.
-#2.open the app on browser by localhost/3000 port.
-#3.Sign up and Post the Comments and see the all users Comments.
-#4.You can see the upvotes and downvotes of own comment and all of users also. 
+#Start the app.
+###1.Start the server by node server.js.
+###2.open the app on browser by localhost/3000 port.
+###3.Sign up and Post the Comments and see the all users Comments.
+###4.After Sign in You can see the upvotes and downvotes of own comment and all of users also. 
 
 
 
