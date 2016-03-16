@@ -5,8 +5,8 @@ Users can Sign up by email id and Post the Comments.
 Users can see the upvotes and downvotes of own comments ans other users also after sign in by user name and password.
 They can also edit the profiles.
 #Start the app.
-###1. Start the server by typing ##node server.js ###on terminal.
-###2. open the app on browser by ##localhost/3000 ###port.
+###1. Start the server by typing node/demon server.js on terminal.
+###2. open the app on browser by //localhost/3000 port.
 ###3. Sign up and Post the Comments and see the all users Comments.
 ###4. After Sign in You can see the upvotes and downvotes of own comment and other users also. 
 
